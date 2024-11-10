@@ -10,7 +10,7 @@ This project provides a complete end-to-end solution for real-time vehicle compo
 - **Automated alerts for maintenance**: Integrates AWS SNS for alert notifications when faults are detected.
 
 ## Architecture
-![Architecture Diagram](path_to_architecture_image.png)
+
 ![image](https://github.com/user-attachments/assets/98221813-3e62-4a14-a62b-4c4226ec5d4c)
 ### Architecture Overview
 1. **IoT Sensors**: Capture real-time data (temperature, vibration, pressure, oil quality).
