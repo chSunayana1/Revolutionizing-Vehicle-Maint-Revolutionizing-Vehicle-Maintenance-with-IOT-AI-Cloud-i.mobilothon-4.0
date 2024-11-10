@@ -49,11 +49,11 @@ This project provides a complete end-to-end solution for real-time vehicle compo
      aws_secret_access_key = YOUR_AWS_SECRET_KEY
      ```
    
-2. **Download Files**:
-   - [historical_sensor_data.csv](sandbox:/mnt/data/historical_sensor_data.csv): Sample data for model training and testing.
+2. **Downloaded Files**:
+   
+[historical_sensor_data.csv](sandbox:/mnt/data/historical_sensor_data.csv): Sample data for model training and testing.
    - [trained_model.pkl](sandbox:/mnt/data/trained_model.pkl): Pre-trained model for predictions.
 
----
 
 ## Running the Code
 
